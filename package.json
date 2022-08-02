@@ -1,8 +1,8 @@
 {
-  "name": "@stackrole/gatsby-starter-foundation",
-  "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+  "name": "PCRWA",
+  "description": "Postal Colony residents Welfare Association",
   "version": "2.0.0",
-  "author": "Stackrole <stackrole@gmail.com>",
+  "author": "Tarun Reddy <tarunreddy17519@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
