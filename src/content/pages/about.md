@@ -9,6 +9,6 @@ We are here to inspire and serve. PCRWA is a committee formed by the residents o
 
 Legal\
 \
-View legal certificate here: 
+View legal certificate here: https://bit.ly/3QaMzLa
 
-View legal challan here:
+View legal challan here: https://bit.ly/3QcrZtH
