@@ -2,11 +2,10 @@
 template: index-page
 slug: /
 title: PCRWA
-tagline: Postal Colony
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Postal Colony Residents Welfare Association
+featuredImage: /assets/8fc93a26-aa63-4571-862b-c25b070ba068.jpeg
 cta:
-  ctaText: Know more
+  ctaText: About us
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Committee formed by residents of Postal Colony for community and development.
