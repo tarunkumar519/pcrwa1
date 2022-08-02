@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "PCRWA",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Postal Colony Residents Welfare Association",
+    "siteUrl": "https://pcrwa.org",
+    "image": "/assets/bce80b6c-8ea7-4688-bc04-95fe853772dd-1-.svg",
+    "iconimage": "/assets/0979757c-04bc-4d81-94c5-db3dff10f145-1-.svg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
