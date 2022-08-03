@@ -12,10 +12,11 @@ const Footer = () => (
   >
     <div className="container">
       <br></br>
+       <p>       <a href="https://pcrwa.org/contact">Contact Us</a></p>
        <a href="https://tarunx.me">Tarun Reddy</a>
-       <a href="https://tarunx.me">Tarun Reddy</a>
+<br></br>
       <p>
-        Created by <a href="https://tarunx.me">Tarun Reddy</a></p>
+        Created by <a href="https://pcrwa.org/gallery">Gallery</a></p>
     </div>
   </footer>
 )
