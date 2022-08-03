@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Meeting about Colony issues
-slug: meeting-august-1-2022
+slug: /blog/meeting-august-1-2022
 date: 2022-08-01 11:30
 description: Meeting about colony issues
 featuredImage: /assets/c5674fb1-fc80-478b-9804-ab87089755c3.jpeg
