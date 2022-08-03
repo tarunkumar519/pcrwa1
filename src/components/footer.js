@@ -13,9 +13,8 @@ const Footer = () => (
     <div className="container">
        <p><a href="https://pcrwa.org/contact">Contact Us</a> </p>
        <a href="https://tarunx.me">Gallery</a>
-<br></br>
       <p>
-        Created by <a href="https://pcrwa.org/gallery">Tarun Reddy</a></p>
+      ©PCRWA 2022   Created by <a href="https://tarunx.me">Tarun Reddy</a></p>
     </div>
   </footer>
 )
