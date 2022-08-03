@@ -11,10 +11,11 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      </br><a href="https://tarunx.me">Tarun Reddy</a><a href="https://tarunx.me">Tarun Reddy</a><a href="https://tarunx.me">Tarun Reddy</a>
+      <br></br>
+       <a href="https://tarunx.me">Tarun Reddy</a>
+       <a href="https://tarunx.me">Tarun Reddy</a>
       <p>
-        Created by <a href="https://tarunx.me">Tarun Reddy</a>
-      </p>
+        Created by <a href="https://tarunx.me">Tarun Reddy</a></p>
     </div>
   </footer>
 )
