@@ -26,7 +26,7 @@ const AboutPage = ({ data }) => {
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
         <article dangerouslySetInnerHTML={{ __html: html }} />
-        <h1>PCWRA Members</h1>
+        <h1>PCRWA Members</h1>
         <figure class="snip1390">
   <img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754121155645500/lingarao.jpg" class="profile" />
   <figcaption>
