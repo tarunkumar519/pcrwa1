@@ -44,7 +44,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120174190644/sampath.jpg" class="profile" />
+  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1002173941693030481/sampath.jpg" class="profile" />
   <figcaption>
       <h2>Sampath Kumar</h2>
       <h2>Neelam</h2>
