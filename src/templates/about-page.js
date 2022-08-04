@@ -26,6 +26,13 @@ const AboutPage = ({ data }) => {
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
         <article dangerouslySetInnerHTML={{ __html: html }} />
+    <figure class="snip1390">
+  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1004651664915042395/IMG_0634_1.jpg" class="profile" />
+  <figcaption>
+    <h2></h2>
+    <h4>UX Design</h4>
+  </figcaption>
+</figure>
       </div>
     </Layout>
   )
