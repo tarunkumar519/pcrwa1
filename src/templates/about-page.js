@@ -60,18 +60,26 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1004720156657852496/168C9966-7CD9-4B6C-A206-0C0797F52225.jpeg" class="profile" />
+  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1004730304361140234/98D8AA55-DFE5-49E9-9C83-A0172C4914B3.jpeg" class="profile" />
   <figcaption>
-    <h2>Mohammed</h2>
-      <h2>Abdul Waseem</h2>
-    <h4>Joint Secretary</h4>
+    <h2>Thallapally</h2>
+    <h2>Ramesh Goud</h2>
+    <h4>Legal Advisor</h4>
   </figcaption>
 </figure>
         <figure class="snip1390">
   <img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754119884771358/prasad.jpg" class="profile" />
   <figcaption>
     <h2>Prasad Madadi</h2>
-    <h4>Vice President</h4>
+    <h4>Joint Secretary</h4>
+  </figcaption>
+</figure>
+        <figure class="snip1390">
+  <img src="https://cdn.discordapp.com/attachments/914907771063894059/1004720156657852496/168C9966-7CD9-4B6C-A206-0C0797F52225.jpeg" class="profile" />
+  <figcaption>
+    <h2>Mohammed</h2>
+      <h2>Abdul Waseem</h2>
+    <h4>Joint Secretary</h4>
   </figcaption>
 </figure>
         <figure class="snip1390">
