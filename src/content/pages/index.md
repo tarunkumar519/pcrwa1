@@ -8,4 +8,4 @@ cta:
   ctaText: About us
   ctaLink: /about
 ---
-Committee formed by residents of Postal Colony for community and interaction with people.
+Committee formed by residents of Postal Colony for community service and interaction within people.
