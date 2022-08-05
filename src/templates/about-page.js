@@ -68,7 +68,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="/static/assets/51e23653-3d03-4795-95ee-df32d3b75153.jpeg" class="profile" />
+  <img src="static/assets/51e23653-3d03-4795-95ee-df32d3b75153.jpeg" class="profile" />
   <figcaption>
     <h2>Prasad Madadi</h2>
     <h4>Joint Secretary</h4>
