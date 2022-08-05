@@ -27,7 +27,7 @@ const AboutPage = ({ data }) => {
         <article dangerouslySetInnerHTML={{ __html: html }} />
         <h1>PCRWA Members</h1>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754121155645500/lingarao.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754121155645500/lingarao.jpg" class="profile" />
 		<figcaption>
 		<h2>Linga Rao</h2>
 		<h2>Boyanapally</h2>
@@ -35,7 +35,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120971108372/janardhan.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120971108372/janardhan.jpg" class="profile" />
 		<figcaption>
 		<h2>Bhandari</h2>
 		<h2>Janardhan Goud</h2>
@@ -43,7 +43,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1002173941693030481/sampath.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1002173941693030481/sampath.jpg" class="profile" />
 		<figcaption>
 		<h2>Sampath Kumar</h2>
 		<h2>Neelam</h2>
@@ -51,7 +51,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
 		<figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004651664915042395/IMG_0634_1.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004651664915042395/IMG_0634_1.jpg" class="profile" />
 		<figcaption>
 		<h2>Aennamaneni</h2>
 		<h2>Ram Gopal Rao</h2>
@@ -59,7 +59,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004730304361140234/98D8AA55-DFE5-49E9-9C83-A0172C4914B3.jpeg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004730304361140234/98D8AA55-DFE5-49E9-9C83-A0172C4914B3.jpeg" class="profile" />
 		<figcaption>
 		<h2>Thallapally</h2>
 		<h2>Ramesh Goud</h2>
@@ -67,21 +67,21 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754119884771358/prasad.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754119884771358/prasad.jpg" class="profile" />
 		<figcaption>
 		<h2>Prasad Madadi</h2>
 		<h4>Joint Secretary</h4>
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1002847249782538270/subbarao.jpeg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1002847249782538270/subbarao.jpeg" class="profile" />
 		<figcaption>
 		<h2>Subbarao Gonuguntla</h2>
 		<h4></h4>
 		</figcaption>
 		</figure
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004720156657852496/168C9966-7CD9-4B6C-A206-0C0797F52225.jpeg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004720156657852496/168C9966-7CD9-4B6C-A206-0C0797F52225.jpeg" class="profile" />
 		<figcaption>
 		<h2>Mohammed</h2>
 		<h2>Abdul Waseem</h2>
@@ -89,7 +89,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120732024952/ramesh.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120732024952/ramesh.jpg" class="profile" />
 		<figcaption>
 		<h2>Ramesh</h2>
 		<h2>Kodumuri</h2>
@@ -97,7 +97,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754118731341864/tarun.jpeg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754118731341864/tarun.jpeg" class="profile" />
 		<figcaption>
 		<h2>Tarun Reddy</h2>
 		<h2>Chintakuntla</h2>
@@ -105,7 +105,7 @@ const AboutPage = ({ data }) => {
 		</figcaption>
 		</figure>
         <figure class="snip1390">
-		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120446816298/pasha.jpg" class="profile" />
+		//<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754120446816298/pasha.jpg" class="profile" />
 		<figcaption>
 		<h2>Faqeer Pasha</h2>
 		<h2>Mohammed</h2>
