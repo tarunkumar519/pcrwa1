@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Swach appreciation by District commissioner
+title: Swach appreciation by  Greater Warangal Municipal corporation Commissioner
 slug: /blog/swach-award-22
 date: 2018-08-12 09:44
 description: Swach appreciation by Greater Warangal Municipal corporation Commissioner
