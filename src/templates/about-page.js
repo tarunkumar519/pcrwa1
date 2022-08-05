@@ -75,6 +75,13 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
+  <img src="static/assets/51e23653-3d03-4795-95ee-df32d3b75153.jpeg" class="profile" />
+  <figcaption>
+    <h2>Subbarao Gonuguntla</h2>
+    <h4></h4>
+  </figcaption>
+</figure
+        <figure class="snip1390">
   <img src="static/assets/a0c607f1-2c22-4328-a9e9-4586bd9bde10.jpeg" class="profile" />
   <figcaption>
     <h2>Mohammed</h2>
