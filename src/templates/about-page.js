@@ -77,7 +77,7 @@ const AboutPage = ({ data }) => {
 		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1002847249782538270/subbarao.jpeg" class="profile" />
 		<figcaption>
 		<h2>Subbarao Gonuguntla</h2>
-		<h4></h4>
+		<h4>Vice-President</h4>
 		</figcaption>
 		</figure>
         <figure class="snip1390">
