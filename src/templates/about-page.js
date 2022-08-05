@@ -1,6 +1,16 @@
 import React from "react"
 import { graphql } from "gatsby"
-
+import Janardhan from "../static/janardhan.png"
+import Lingarao from "../static/lingarao.png"
+import Pasha from "../static/pasha.png"
+import Prasad from "../static/prasad.png"
+import Rameshgoud from "../static/rameshgoud.png"
+import Rameshkodumuri from "../static/rameshkodumuri.png"
+import Ramgopalrao from "../static/ramgopalrao.png"
+import Sampathkumar from "../static/sampathkumar.png"
+import Subbarao from "../static/subbarao.png"
+import Tarun from "../static/tarun.png"
+import Waseem from "../static/waseem.png"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -28,7 +38,7 @@ const AboutPage = ({ data }) => {
         <article dangerouslySetInnerHTML={{ __html: html }} />
         <h1>PCRWA Members</h1>
         <figure class="snip1390">
-  <img src="{lingarao.png}" class="profile" />
+  <img src="{Lingarao}" class="profile" />
   <figcaption>
       <h2>Linga Rao</h2>
       <h2>Boyanapally</h2>
@@ -36,7 +46,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{janardhan.png}" class="profile" />
+  <img src="{Janardhan}" class="profile" />
   <figcaption>
     <h2>Bhandari</h2>
       <h2>Janardhan Goud</h2>
@@ -44,7 +54,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{sampathkumar.png}" class="profile" />
+  <img src="{Sampathkumar}" class="profile" />
   <figcaption>
       <h2>Sampath Kumar</h2>
       <h2>Neelam</h2>
@@ -52,7 +62,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
     <figure class="snip1390">
-  <img src="{ramgopalrao.png}" class="profile" />
+  <img src="{Ramgopalrao}" class="profile" />
   <figcaption>
     <h2>Aennamaneni</h2>
       <h2>Ram Gopal Rao</h2>
@@ -68,21 +78,21 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{prasad.png}" class="profile" />
+  <img src="{Prasad}" class="profile" />
   <figcaption>
     <h2>Prasad Madadi</h2>
     <h4>Joint Secretary</h4>
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{subbarao.png}" class="profile" />
+  <img src="{Subbarao}" class="profile" />
   <figcaption>
     <h2>Subbarao Gonuguntla</h2>
     <h4></h4>
   </figcaption>
 </figure
         <figure class="snip1390">
-  <img src="{waseem.png}" class="profile" />
+  <img src="{Waseem}" class="profile" />
   <figcaption>
     <h2>Mohammed</h2>
       <h2>Abdul Waseem</h2>
@@ -90,7 +100,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{rameshkodumuri.png}" class="profile" />
+  <img src="{Rameshkodumuri}" class="profile" />
   <figcaption>
     <h2>Ramesh</h2>
       <h2>Kodumuri</h2>
@@ -98,7 +108,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{tarun.png}" class="profile" />
+  <img src="{Tarun}" class="profile" />
   <figcaption>
     <h2>Tarun Reddy</h2>
       <h2>Chintakuntla</h2>
@@ -106,7 +116,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="{pasha.png}" class="profile" />
+  <img src="{Pasha}" class="profile" />
   <figcaption>
     <h2>Faqeer Pasha</h2>
       <h2>Mohammed</h2>
