@@ -28,7 +28,7 @@ const AboutPage = ({ data }) => {
         <article dangerouslySetInnerHTML={{ __html: html }} />
         <h1>PCRWA Members</h1>
         <figure class="snip1390">
-  <img src="lingarao.jpeg" class="profile" />
+  <img src="{lingarao.png}" class="profile" />
   <figcaption>
       <h2>Linga Rao</h2>
       <h2>Boyanapally</h2>
@@ -36,7 +36,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="janardhan.jpeg" class="profile" />
+  <img src="{janardhan.png}" class="profile" />
   <figcaption>
     <h2>Bhandari</h2>
       <h2>Janardhan Goud</h2>
@@ -44,7 +44,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="sampathkumar.jpeg" class="profile" />
+  <img src="{sampathkumar.png}" class="profile" />
   <figcaption>
       <h2>Sampath Kumar</h2>
       <h2>Neelam</h2>
@@ -52,7 +52,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
     <figure class="snip1390">
-  <img src="ramgopalrao.jpeg" class="profile" />
+  <img src="{ramgopalrao.png}" class="profile" />
   <figcaption>
     <h2>Aennamaneni</h2>
       <h2>Ram Gopal Rao</h2>
@@ -60,7 +60,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="rameshgoud.jpeg" class="profile" />
+  <img src="{rameshgoud.png}" class="profile" />
   <figcaption>
     <h2>Thallapally</h2>
     <h2>Ramesh Goud</h2>
@@ -68,21 +68,21 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="prasad.jpeg" class="profile" />
+  <img src="{prasad.png}" class="profile" />
   <figcaption>
     <h2>Prasad Madadi</h2>
     <h4>Joint Secretary</h4>
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="subbarao.jpeg" class="profile" />
+  <img src="{subbarao.png}" class="profile" />
   <figcaption>
     <h2>Subbarao Gonuguntla</h2>
     <h4></h4>
   </figcaption>
 </figure
         <figure class="snip1390">
-  <img src="waseem.jpeg" class="profile" />
+  <img src="{waseem.png}" class="profile" />
   <figcaption>
     <h2>Mohammed</h2>
       <h2>Abdul Waseem</h2>
@@ -90,7 +90,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="rameshkodumuri.jpeg" class="profile" />
+  <img src="{rameshkodumuri.png}" class="profile" />
   <figcaption>
     <h2>Ramesh</h2>
       <h2>Kodumuri</h2>
@@ -98,7 +98,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="tarun.jpeg" class="profile" />
+  <img src="{tarun.png}" class="profile" />
   <figcaption>
     <h2>Tarun Reddy</h2>
       <h2>Chintakuntla</h2>
@@ -106,7 +106,7 @@ const AboutPage = ({ data }) => {
   </figcaption>
 </figure>
         <figure class="snip1390">
-  <img src="pasha.jpeg" class="profile" />
+  <img src="{pasha.png}" class="profile" />
   <figcaption>
     <h2>Faqeer Pasha</h2>
       <h2>Mohammed</h2>
