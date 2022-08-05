@@ -94,6 +94,13 @@ const AboutPage = ({ data }) => {
 		<h4>Vice-President</h4>
 		</figcaption>
 		</figure>
+		<figure class="snip1390">
+		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1005145720518615160/WhatsApp_Image_2022-08-05_at_9.38.46_PM_1_1.jpeg" class="profile" />
+		<figcaption>
+		<h2>Bhavana Rushi</h2>
+		<h4>Advisor</h4>
+		</figcaption>
+		</figure>
         <figure class="snip1390">
 		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1004720156657852496/168C9966-7CD9-4B6C-A206-0C0797F52225.jpeg" class="profile" />
 		<figcaption>
