@@ -66,6 +66,13 @@ const AboutPage = ({ data }) => {
 		<h4>Legal Advisor</h4>
 		</figcaption>
 		</figure>
+		<figure class="snip1390">
+		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1005143853923319848/WhatsApp_Image_2022-08-05_at_9.23.51_PM_1_1.jpeg" class="profile" />
+		<figcaption>
+		<h2>Anagoni Veeranna</h2>
+		<h4>Vice-President</h4>
+		</figcaption>
+		</figure>
         <figure class="snip1390">
 		<img src="https://cdn.discordapp.com/attachments/914907771063894059/1001754119884771358/prasad.jpg" class="profile" />
 		<figcaption>
