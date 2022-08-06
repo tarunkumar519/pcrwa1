@@ -16,14 +16,15 @@ module.exports = {
   siteMetadata: settings.meta,
   plugins: [
         {
-      resolve: `gatsby-plugin-gtag`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
         // your google analytics tracking id
         trackingId: `G-2C90NNX5CG`,
         // Puts tracking script in the head instead of the body
         head: true,
         // enable ip anonymization
-        anonymize: true,
+        anonymize_ip: true,
+        cookie_expires: 0,
       },
     },
     {
