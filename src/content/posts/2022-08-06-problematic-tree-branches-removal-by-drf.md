@@ -10,6 +10,6 @@ Problematic branches of trees in the colony are being removed by DRF Team
 
 ![](/assets/8d79746c-a980-441c-9545-aefff805e89f.jpeg)
 
-![](/assets/35ee6f08-86e5-48e9-9373-d326b4239f8d.jpeg)
+![](/assets/149fa1bb-1070-41bd-b61f-cd0ea32c6dc8.jpeg)
 
 ![](/assets/f74000ca-cbcd-43c0-b414-ab06230831bb.jpeg)
