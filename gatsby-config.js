@@ -15,18 +15,24 @@ const settings = require("./src/util/site.json")
 module.exports = {
   siteMetadata: settings.meta,
   plugins: [
-        {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // your google analytics tracking id
-        trackingId: `G-2C90NNX5CG`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize_ip: true,
-        cookie_expires: 0,
-      },
-    },
+   {
+     resolve: `gatsby-plugin-google-gtag`,
+     options: {
+       // You can add multiple tracking ids and a pageview event will be fired for all of them.
+       trackingIds: [
+         "G-2C90NNX5CG", // Google Analytics / GA
+       ],
+       // This object is used for configuration specific to this plugin
+       pluginConfig: {
+         // Puts tracking script in the head instead of the body
+         head: true,
+         // Setting this parameter is also optional
+         respectDNT: true,
+         // Avoids sending pageview hits from custom paths
+         exclude: ["/preview/**", "/do-not-track/me/too/"],
+       },
+     },
+   },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
