@@ -2,7 +2,7 @@
 template: blog-post
 title: Independence day Rally across colony
 slug: /blog/independence-rally-2022
-date: 2022-08-15 18:32
+date: 2022-08-14 10:32
 description: Independence day Rally across colony
 featuredImage: /assets/45f65c07-b8f8-4605-b0f1-bdab1a0440d8.jpeg
 ---
