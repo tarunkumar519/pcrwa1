@@ -6,9 +6,9 @@ date: 2022-08-31 10:40
 description: Ganesh mud statues distribution
 featuredImage: /assets/d4cd5a32-1825-4d82-844a-7115fb73653c.jpeg
 ---
-
-
 ![](/assets/c4e713c7-95a0-497b-8986-e38a1ffce3a0.jpeg)
+
+![](/assets/6de3fd1b-8294-4d85-94bb-e033215388c6.jpeg)
 
 ![](/assets/e8cae57d-e13a-44ab-b968-f892e19e6024.jpeg)
 
