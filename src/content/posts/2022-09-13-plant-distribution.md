@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Plant distribution
+title: Plants distribution
 slug: /blog/plant-distribution-13-09-22
 date: 2022-09-13 17:07
 description: Plants distribution
