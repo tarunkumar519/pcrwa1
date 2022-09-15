@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Fogging program
+title: Fogging program in colony
 slug: /blog/fogging-14-09-22
 date: 2022-09-14 21:48
 description: Fogging program
