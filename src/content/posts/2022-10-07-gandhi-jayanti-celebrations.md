@@ -2,7 +2,7 @@
 template: blog-post
 title: Gandhi jayanti celebrations
 slug: /blog/gandhi-jayanti-22
-date: 2022-10-07 08:04
+date: 2022-10-02 08:04
 description: Gandhi jayanti celebrations
 featuredImage: /assets/63126ecf-263a-46cd-a4ea-3a3950c34fee.jpeg
 ---
