@@ -6,4 +6,6 @@ date: 2022-11-28 11:07
 description: Pcrwa attending prajavani
 featuredImage: /assets/fcfe0ea9-a849-4019-b3b4-86f66948c8f1.jpeg
 ---
+Discussing issues in Postal colony with DCP and Assistant Engineer
+
 ![](/assets/33532f0d-4237-4813-a6b1-7ac0cef9abc9.jpeg)
