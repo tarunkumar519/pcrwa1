@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Road encroachment with KUDA and municipal corporation
+title: 40 feet Road encroachment with KUDA and municipal corporation
 slug: /blog/road-01-12-22
 date: 2022-12-01 13:06
 description: Road encroachment talk with KUDA and municipal corporation
