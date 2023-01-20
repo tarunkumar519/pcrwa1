@@ -15,5 +15,3 @@ featuredImage: /assets/387dfd80-f1d3-42ca-9ec6-24691b052d06.jpeg
 ![](/assets/3785b2fc-eb18-49a2-8690-1695f067e82b.jpeg)
 
 ![](/assets/a673217c-2de6-4295-a69f-faca928602f8.jpeg)
-
-![](/assets/59a580c7-3c71-4692-bd84-be029f2353fd.jpeg)
