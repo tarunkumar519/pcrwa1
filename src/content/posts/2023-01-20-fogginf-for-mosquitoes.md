@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Fogginf for mosquitoes
+title: Fogging for mosquitoes
 slug: /blog/fogging-16-01-23
 date: 2023-01-16 08:57
 description: Fogging for mosquitoes
