@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: GWMC authorities in colony
-slug: /blog/GWMC-01-03-23
+slug: /blog/gwmc-01-03-23
 date: 2023-03-01 11:25
 description: GWMC authorities in colony
 featuredImage: /assets/0939d256-565e-4a46-98a3-9e320ac031de.jpeg
