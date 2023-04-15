@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cleanup of open plot
-slug: /blog/cleanup-02-03-23
+slug: /blog/cleanup-04-08-23
 date: 2023-04-08 11:46
 description: Cleanup of open plot
 featuredImage: /assets/571fa83a-96c3-4789-8eaf-0f4598f4f1a9.jpeg
