@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cleanup at Sampath sir and Raji gari lane
-slug: /blog/02-03-23
+slug: /blog/cleanup-02-03-23
 date: 2023-03-02 11:41
 description: Cleanup at sampath sir and Raju gari lane
 featuredImage: /assets/b71d08bb-f2ea-407a-88da-f7307f982f99.jpeg
